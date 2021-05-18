@@ -1,0 +1,26 @@
+.layout {
+  min-height: 100vh;
+  background-image: url(./login-bg.svg);
+}
+.header {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content {
+  width: 370px;
+  margin: 0 auto;
+  margin: {
+    top: 120px;
+  };
+}
+
+.title {
+  font-size: 28px;
+  text-align: center;
+}
+
+.form {
+  width: 100%;
+}
